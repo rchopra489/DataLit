@@ -1,2 +1,2 @@
 # DataLit
-Homework Assignments for DataLit Coursr
+Homework Assignments for DataLit Course
